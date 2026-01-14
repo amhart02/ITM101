@@ -1,5 +1,7 @@
 # ITM101
 
-Features-
+Features
 
--- Contain a list of all the events
+- Contain a list of all the events
+- Display the time and place
+- 
