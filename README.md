@@ -6,6 +6,8 @@ Features
 
 ## Starting your server
 
+*First 3 steps are in the terminal*
+
 1. npm install
 2. npm install express
 3. node index.js
